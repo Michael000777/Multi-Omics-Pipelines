@@ -1,0 +1,5 @@
+Tools: SPades
+Mode: Chromosomes
+Data: Illumina paired-end
+Sequence Type: Whole Genome
+
