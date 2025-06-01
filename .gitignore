@@ -201,3 +201,7 @@ work/
 .nextflow.log*
 Spades_output/
 fastqs/
+TRIMMED_reads/
+fastq/
+ref
+chrX_data.tar.gz

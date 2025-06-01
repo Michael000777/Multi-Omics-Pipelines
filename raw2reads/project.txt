@@ -1,0 +1,14 @@
+Overview:
+- Fastqs -> QC -> Trim -> mapping & QC -> Mapping -> Read counts
+
+Tools:
+-Netxflow
+-FastQC & MultiQC 
+-Trim_galore
+-star
+-subread 
+
+data: https://github.com/vappiah/bioinformatics-tutorials/blob/main/workflow-managers/nextflow/rna-seq/episode-1-star-feature-count/get_data.sh
+
+
+
