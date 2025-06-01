@@ -205,3 +205,5 @@ TRIMMED_reads/
 fastq/
 ref
 chrX_data.tar.gz
+INDEX/
+MAPPING/
