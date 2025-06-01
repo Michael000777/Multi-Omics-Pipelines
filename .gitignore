@@ -196,3 +196,8 @@ cython_debug/
 data/
 work/
 .nextflow/
+
+
+.nextflow.log*
+Spades_output/
+fastqs/
