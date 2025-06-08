@@ -207,3 +207,12 @@ ref
 chrX_data.tar.gz
 INDEX/
 MAPPING/
+
+# Ignore all data and raw files
+data/
+*.h5ad
+*.bam
+*.fastq.gz
+*.npy
+*.pt
+*.ipynb_checkpoints/
