@@ -216,3 +216,7 @@ data/
 *.npy
 *.pt
 *.ipynb_checkpoints/
+
+raw_adata/
+clean_adata/
+*adata/
